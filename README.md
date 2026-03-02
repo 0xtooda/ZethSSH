@@ -75,6 +75,4 @@ I'm a 21-year-old Full-stack dev with 9+ years of experience. Focused on Linux s
 - 📬 Email: [HikariIT@proton.me  
 - 📍 Based in [Denmark] | Open to remote internships, collaborations & full-time roles  
 
----
-
-> *– Zeth*
+// tooda
