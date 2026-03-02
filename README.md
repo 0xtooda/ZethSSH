@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Zeth</h1>
+<h1 align="center">⚡ Tooda</h1>
 <p align="center">
   <b>Full-Stack Developer • Cybersecurity Engineer • IoT Security Specialist</b><br>
 </p>
@@ -6,7 +6,7 @@
 ---
 
 ### 👤 About Me
-I'm a 21-year-old full-stack developer and cybersecurity engineer with over 6 years of software development experience and 9 years immersed in offensive and defensive security. My expertise spans IoT security, reverse engineering, and advanced networking — grounded in deep knowledge of Linux environments, low-level system analysis, and secure infrastructure design.
+I'm a 21-year-old Full-stack dev with 9+ years of experience. Focused on Linux systems, malware analysis, and exploit development. Proficient in kernel-level system analysis, reverse engineering, and infrastructure security. Strong background in low-level systems programming and defensive security architecture.
 
 ---
 
